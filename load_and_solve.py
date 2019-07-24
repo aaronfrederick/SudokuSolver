@@ -3,12 +3,9 @@ import time
 import pandas as pd
 import matplotlib
 matplotlib.use('TkAgg')
-import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
 import cv2
 from PIL import Image
 import pytesseract
-import matplotlib.pyplot as plt
 import tensorflow as tf
 import sys
 
